@@ -7,9 +7,3 @@ This is a simple training app based on HTML, CSS and Javascript.
 * Responsive on large and small screens with the help of the CSS media queries.
 
 
-
-## Usage
-Just browse to
-<https://gabrielhangor.github.io/InfiniteCats>
-
-
